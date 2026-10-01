@@ -1,6 +1,5 @@
 # Vortex Arena: Catatan soal `div`, `class`, dan `id`
-
-Catatan ini buat kalian yang baru lihat kodingan Vortex Arena dan bingung kenapa banyak banget `div` dengan nama aneh-aneh. Aku cuma bahas tiga hal itu, sisanya (font, viewport, dll.) skip dulu.
+Catatan sedikit.
 
 ---
 
