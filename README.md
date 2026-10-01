@@ -1,5 +1,5 @@
 # Vortex Arena: Catatan soal `div`, `class`, dan `id`
-Catatan sedikit.
+Catatan sedikit Tolong di Baca.
 
 ---
 
